@@ -1,0 +1,39 @@
+.navBar{
+    height: 72px;
+    width: 95%;
+    background:#fff;
+    margin-left: 30px;
+    border-radius: 0px 0px 30px 30px;
+    box-shadow: rgba(12, 12, 12, 0.35) 0px 5px 15px;
+}
+
+.navLogo{
+    width: 70px;
+    height: 70px;
+    margin-left:30px
+}
+
+.eColor{
+    font-size: 30px;
+    margin-left:2px;
+    color: rgb(53, 150, 216);
+}
+
+.Option{
+    height: 67px;
+    width: 280px;
+    display: flex;
+    margin-left: 15%;
+    background-color: rgb(252, 251, 251);
+
+}
+
+.rov{
+    font-size: 30px;
+}
+
+.homeIcon{
+    margin-top: 40px;
+    margin-left: 15px;
+   
+}
